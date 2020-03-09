@@ -10,16 +10,17 @@ url: "" # the base hostname & protocol for your site
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+# analytics-id:       "default"
+# twitter:            default
+# facebook:           default
+# instagram:          default
+github:             mkosturek
+linkedin:           michal-kosturek
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Wrocław
+# phone:              310-318-5555
+email:              kosturek.michal@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
