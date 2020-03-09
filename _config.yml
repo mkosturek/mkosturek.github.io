@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Michał Kosturek
+bio:                "Data Scientist | Machine Learning Engineer | Computer Vision Engineer"
+description:        "Michał Kosturek - Data Scientist | Machine Learning Engineer | Computer Vision Engineer"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ github:             mkosturek
 linkedin:           michal-kosturek
 
 # personal
-location:           Wrocław
+location:           Wrocław, dolnośląskie, Poland
 # phone:              310-318-5555
 email:              kosturek.michal@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
